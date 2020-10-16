@@ -1,7 +1,7 @@
 python-patterns
 ===============
 
-A collection of design patterns and idioms in Python.
+A collection of design patterns and idioms in Python. Reverted back to Master.
 
 Current Patterns
 ----------------
